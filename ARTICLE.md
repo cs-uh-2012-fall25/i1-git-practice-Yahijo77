@@ -6,4 +6,4 @@ This article was quite intriguing, in a sense that this idea really supports my 
 
 # Proof Read
 
-Article checked for type.
+This Article checked for type.
