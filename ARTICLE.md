@@ -19,3 +19,6 @@ I really enjoyed reading your perspective on a16z's view! I like how you connect
 Your insight on transforming traditional industries with AI and Web3 is inspiring, and it’s encouraging to see how you find the possibilities even when it feels challenging.  
 This article definitely motivates me to think about practical ways AI can impact different sectors.
 
+## Comment by Moonis Usman
+
+I think it is interesting how your selected article talks about the practicalities of AI to transform traditional industries and how you were able to connect to your own startup idea. It was a good read for sure. Good luck on your idea Yahyo!
